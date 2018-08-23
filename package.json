@@ -1,0 +1,22 @@
+{
+  "name": "serverapp",
+  "version": "1.0.0",
+  "description": "server app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Le Hung",
+  "license": "",
+  "dependencies": {
+    "agenda": "^1.0.3",
+    "express": "^4.13.4",
+    "log4js": "^2.4.1",
+    "log4js-node-mongodb": "^2.2.1",
+    "node-cron": "^1.2.1",
+    "node-where": "^1.1.0",
+    "unirest": "^0.5.1",
+    "winston": "^2.4.0",
+    "winston-mongodb": "^4.0.0-rc1"
+  }
+}
